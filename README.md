@@ -1,4 +1,4 @@
-# Employment-Analysis
+# Report on Employment Analysis for a city. 
 Project in R
 # Research
 Read and thoroughly analyze the SF Employee Compensation (https://www.kaggle.com/san-francisco/sf-employee-compensation.) from Kaggle. Make sure you understand each column.
